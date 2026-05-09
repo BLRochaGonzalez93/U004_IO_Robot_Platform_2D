@@ -71,4 +71,4 @@ Prototipo base jugable.
 
 ## Repositorio
 
-[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U010_Sokar/U004_IO_Robot_Platform_2D)
+[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U004_IO_Robot_Platform_2D)

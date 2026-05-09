@@ -61,7 +61,7 @@ The main feature is switching between two forms: combat mode, colored yellow, ca
 
 Planned path:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
@@ -89,16 +89,16 @@ More information:
 
 ## Recommended code to review
 
-- [`Project/Assets/Scripts/TimerControl.cs`](./Project/Assets/Scripts/TimerControl.cs)
-- [`Project/Assets/Scripts/PlayerModeController.cs`](./Project/Assets/Scripts/PlayerModeController.cs)
-- [`Project/Assets/Scripts/BulletControl.cs`](./Project/Assets/Scripts/BulletControl.cs)
-- [`Project/Assets/Scripts/ButtonDoorControl.cs`](./Project/Assets/Scripts/ButtonDoorControl.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/TimerControl.cs`](./PRJ_Plataforma2D/Assets/Scripts/TimerControl.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/PlayerModeController.cs`](./PRJ_Plataforma2D/Assets/Scripts/PlayerModeController.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/BulletControl.cs`](./PRJ_Plataforma2D/Assets/Scripts/BulletControl.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/ButtonDoorControl.cs`](./PRJ_Plataforma2D/Assets/Scripts/ButtonDoorControl.cs)
 
 ## Build
 
 The build is available through GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.en.md`](../Releases/Download.en.md)
 
 [Download build U004-v1.0.0](https://github.com/BLRochaGonzalez93/U004_IO_Robot_Platform_2D/releases/tag/U004-v1.0.0)
 

@@ -61,7 +61,7 @@ La característica principal es el cambio entre dos formas: modo combate, de col
 
 Ruta prevista:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Arquitectura
 
@@ -89,16 +89,16 @@ Más información en:
 
 ## Código recomendado para revisar
 
-- [`Project/Assets/Scripts/TimerControl.cs`](./Project/Assets/Scripts/TimerControl.cs)
-- [`Project/Assets/Scripts/PlayerModeController.cs`](./Project/Assets/Scripts/PlayerModeController.cs)
-- [`Project/Assets/Scripts/BulletControl.cs`](./Project/Assets/Scripts/BulletControl.cs)
-- [`Project/Assets/Scripts/ButtonDoorControl.cs`](./Project/Assets/Scripts/ButtonDoorControl.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/TimerControl.cs`](./PRJ_Plataforma2D/Assets/Scripts/TimerControl.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/PlayerModeController.cs`](./PRJ_Plataforma2D/Assets/Scripts/PlayerModeController.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/BulletControl.cs`](./PRJ_Plataforma2D/Assets/Scripts/BulletControl.cs)
+[`PRJ_Plataforma2D/Assets/Scripts/ButtonDoorControl.cs`](./PRJ_Plataforma2D/Assets/Scripts/ButtonDoorControl.cs)
 
 ## Build
 
 La build está disponible en GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.md)
 
 [Descargar build U004-v1.0.0](https://github.com/BLRochaGonzalez93/U004_IO_Robot_Platform_2D/releases/tag/U004-v1.0.0)
 
